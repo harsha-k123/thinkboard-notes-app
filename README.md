@@ -5,8 +5,8 @@ A Full Stack CRUD Note Taking Application built using the MERN Stack!
 - Rate Limited using Redis
 - Fully Responsive
 
-Technologies Used
-Frontend - React.js, Tailwind CSS, Daisy UI
-Backend - Node.js, Express.js
-Database - MongoDB
+Technologies Used:
+- Frontend - React.js, Tailwind CSS, Daisy UI
+- Backend - Node.js, Express.js
+- Database - MongoDB
 
